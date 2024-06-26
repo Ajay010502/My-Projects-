@@ -1,0 +1,28 @@
+body{
+  background-color: #212121;
+  color: #fff;
+  font-family: fantasy;
+  font-size: large;
+}
+
+.center{
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 2px solid palevioletred;
+}
+
+#clock{
+  font-size: 40px;
+  background-color: palevioletred;
+  padding: 20px 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+  width: auto;
+}
+#banner{
+  font-size: 50px;
+}
+
